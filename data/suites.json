@@ -1,0 +1,82 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestGmail",
+    "children" : [ {
+      "name" : "testcase.LogInSendLetterAndDeleteLetterTest",
+      "children" : [ {
+        "name" : "testcase.LogInSendLetterAndDeleteLetterTest",
+        "children" : [ {
+          "name" : "testSendAndDeleteLetter",
+          "uid" : "d8dc25ae3621934f",
+          "parentUid" : "18e37ceeb2e49595282a03186478cc84",
+          "status" : "passed",
+          "time" : {
+            "start" : 1599425832337,
+            "stop" : 1599426077837,
+            "duration" : 245500
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "User{id=1, email='testepampetro@gmail.com', password='myprojectmailsende@2'}" ]
+        }, {
+          "name" : "testSendAndDeleteLetter",
+          "uid" : "8c9879affb21e8a2",
+          "parentUid" : "18e37ceeb2e49595282a03186478cc84",
+          "status" : "passed",
+          "time" : {
+            "start" : 1599425832373,
+            "stop" : 1599426066443,
+            "duration" : 234070
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "User{id=2, email='test1pavlo@gmail.com', password='myprojectmailsende@3'}" ]
+        }, {
+          "name" : "testSendAndDeleteLetter",
+          "uid" : "3ce1b87cbdceaa4a",
+          "parentUid" : "18e37ceeb2e49595282a03186478cc84",
+          "status" : "passed",
+          "time" : {
+            "start" : 1599425832430,
+            "stop" : 1599426083604,
+            "duration" : 251174
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "User{id=0, email='testepamivan@gmail.com', password='myprojectmailsende@1'}" ]
+        }, {
+          "name" : "testSendAndDeleteLetter",
+          "uid" : "adefdb95ee54bec1",
+          "parentUid" : "18e37ceeb2e49595282a03186478cc84",
+          "status" : "passed",
+          "time" : {
+            "start" : 1599426090121,
+            "stop" : 1599426219431,
+            "duration" : 129310
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "User{id=3, email='dimamalash5@gmail.com', password='myprojectmailsende@4'}" ]
+        }, {
+          "name" : "testSendAndDeleteLetter",
+          "uid" : "a71b0c8f806079bb",
+          "parentUid" : "18e37ceeb2e49595282a03186478cc84",
+          "status" : "passed",
+          "time" : {
+            "start" : 1599426090451,
+            "stop" : 1599426212154,
+            "duration" : 121703
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "User{id=4, email='gavruloepam@gmail.com', password='myprojectmailsende@5'}" ]
+        } ],
+        "uid" : "18e37ceeb2e49595282a03186478cc84"
+      } ],
+      "uid" : "0facf6cef24e0ebd44ec08c02f0d4382"
+    } ],
+    "uid" : "fdb30c7dc70587276d7726dc09b0008d"
+  } ]
+}

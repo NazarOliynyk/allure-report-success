@@ -1,0 +1,51 @@
+[ {
+  "uid" : "a71b0c8f806079bb",
+  "name" : "testSendAndDeleteLetter",
+  "time" : {
+    "start" : 1599426090451,
+    "stop" : 1599426212154,
+    "duration" : 121703
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d8dc25ae3621934f",
+  "name" : "testSendAndDeleteLetter",
+  "time" : {
+    "start" : 1599425832337,
+    "stop" : 1599426077837,
+    "duration" : 245500
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3ce1b87cbdceaa4a",
+  "name" : "testSendAndDeleteLetter",
+  "time" : {
+    "start" : 1599425832430,
+    "stop" : 1599426083604,
+    "duration" : 251174
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "adefdb95ee54bec1",
+  "name" : "testSendAndDeleteLetter",
+  "time" : {
+    "start" : 1599426090121,
+    "stop" : 1599426219431,
+    "duration" : 129310
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8c9879affb21e8a2",
+  "name" : "testSendAndDeleteLetter",
+  "time" : {
+    "start" : 1599425832373,
+    "stop" : 1599426066443,
+    "duration" : 234070
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]
